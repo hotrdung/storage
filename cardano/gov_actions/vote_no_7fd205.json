@@ -1,0 +1,20 @@
+{
+  "voter": {
+    "DRep": {
+      "Key": "025ff415d845131e6671534993be880030368f0dcf05bd10d5fd38e2"
+    }
+  },
+  "votes": [
+    {
+      "action_id": {
+        "transaction_id": "451920819d838b634fbd08cfd7651640ca473c885a10a941810d3060b3da4004",
+        "index": 0
+      },
+      "voting_procedure": {
+        "vote": "No",
+        "anchor": null
+      }
+    }
+  ]
+}
+
