@@ -284,16 +284,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5M-p4GhdZWnhtuYaS_l--1" value=":FE" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="250" y="80" width="100" height="490" as="geometry" />
+          <mxGeometry x="250" y="80" width="100" height="390" as="geometry" />
         </mxCell>
         <mxCell id="5M-p4GhdZWnhtuYaS_l--3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5M-p4GhdZWnhtuYaS_l--1">
           <mxGeometry x="45" y="160" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="5M-p4GhdZWnhtuYaS_l--4" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="140" y="80" width="20" height="490" as="geometry" />
+          <mxGeometry x="140" y="80" width="20" height="390" as="geometry" />
         </mxCell>
         <mxCell id="5M-p4GhdZWnhtuYaS_l--5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5M-p4GhdZWnhtuYaS_l--4">
-          <mxGeometry x="5" y="80" width="10" height="400" as="geometry" />
+          <mxGeometry x="5" y="80" width="10" height="290" as="geometry" />
         </mxCell>
         <mxCell id="5M-p4GhdZWnhtuYaS_l--6" value="1. fully auth-ed&lt;div&gt;disable 2FA&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="5M-p4GhdZWnhtuYaS_l--4" target="5M-p4GhdZWnhtuYaS_l--5">
           <mxGeometry relative="1" as="geometry">
@@ -301,7 +301,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5M-p4GhdZWnhtuYaS_l--7" value=":BE" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="100" height="490" as="geometry" />
+          <mxGeometry x="470" y="80" width="100" height="380" as="geometry" />
         </mxCell>
         <mxCell id="5M-p4GhdZWnhtuYaS_l--11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5M-p4GhdZWnhtuYaS_l--7">
           <mxGeometry x="45" y="170" width="10" height="180" as="geometry" />
